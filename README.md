@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Danny Betancourt @ComputerScientistDanny
 - 👀 I’m interested in melding things together.
-- 🌱 I’m currently learning more about compiler hacking and optimization.
-- 💞️ I’m looking to collaborate on anything that floats my boat.
-- 📫 How to reach me: self@dannybetancourt.net <-- Also my portfolio
+- 🌱 I'm always working on something. It's not always public, but I'd be happy to chat about it if you're curious.
+- 💞️ I’m open to collaboration!
+- 📫 Feel free to [get in touch!](https://linqapp.com/dannybetancourt)
+- 🤐 [Why I picked such a silly username and now it's worth the hassle to change it.](https://www.youtube.com/watch?v=IRVRbh9OjUQ)
 
 <!---
 ComputerScientistDanny/ComputerScientistDanny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
