@@ -1,3 +1,5 @@
+## Stats & Intro 🤓
+
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArkenV&theme=github_dark&hide=contribs&show_icons=true" />
 </a>
@@ -14,15 +16,14 @@
 - 💞️ I’m open to collaboration!
 - 📫 Feel free to [get in touch!](https://linqapp.com/dannybetancourt)
 
-<br/>
-<br/>
-
 ## Notable Projects 🚧
 * ♯ **G# (G Sharp)**
   * .NET programming language inspired by Music Theory and designed to work together with C# and F#
 * 🌐 **AΔ (A Major)**
-  * IDE and Robotics framework for compiling CIL into RISC (Arduino) and ARM (Raspberry Pi) assemblies
+  * IDE and Robotics Framework for compiling CIL into RISC (Arduino) and ARM (Raspberry Pi) assemblies
 * 💻 **Computer Science Crash Course: from Ada to Zig**
   * A course I'm recording to be hosted on the Udemy platform
 * 🤖 **Arken**
   * 3D-printed piano-playing robotic hand. V2 will support a second hand on a rail and V3 will accept voice commands
+* 🏛️ **The Grand Library**
+  * A little grandiose, I know, but it's a collection of neat algorithms and new Linux commands that I think are useful
