@@ -1,10 +1,10 @@
 ## Stats & Intro 🤓
 
 <a href="">
-  <img align="center" src="https://vercel-92sid5wcm-arkenvs-projects.vercel.app/api?username=ArkenV&theme=github_dark&hide=contribs&show_icons=true" />
+  <img align="center" src="https://vercel-arkenvs-projects.vercel.app/api?username=ArkenV&theme=github_dark&hide=contribs&show_icons=true" />
 </a>
 <a href="">
-  <img align="center" src="https://vercel-92sid5wcm-arkenvs-projects.vercel.app/api/top-langs/?username=ArkenV&theme=github_dark&layout=compact" />
+  <img align="center" src="https://vercel-arkenvs-projects.vercel.app/api/top-langs/?username=ArkenV&theme=github_dark&layout=compact" />
 </a>
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
@@ -14,6 +14,7 @@
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
@@ -24,6 +25,9 @@
 
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
