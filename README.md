@@ -7,20 +7,18 @@ For more on that, please visit my socials on the left. GitHub is a code reposito
 ## GitHub Activity
 
 <a href="">
-  <img align="center" src="https://vercel-arkenvs-projects.vercel.app/api?username=ArkenV&theme=github_dark&hide=contribs&show_icons=true" />
+  <img align="center" src="https://vercel-arkenvs-projects.vercel.app/api?username=ArkenV&count_private=true&theme=github_dark&hide=contribs&show_icons=true" />
 </a>
 <a href="">
-  <img align="center" src="https://vercel-arkenvs-projects.vercel.app/api/top-langs/?username=ArkenV&theme=github_dark&layout=compact" />
+  <img align="center" src="https://vercel-arkenvs-projects.vercel.app/api/top-langs/?username=ArkenV&count_private=true&theme=github_dark&layout=compact" />
 </a>
 
-<br />
 <br />
 
 ## Favorite OS
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
-<br />
 <br />
 
 ## Favorite Languages
@@ -32,7 +30,6 @@ For more on that, please visit my socials on the left. GitHub is a code reposito
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <br />
-<br />
 
 ## Favorite Editors
 
@@ -41,7 +38,6 @@ For more on that, please visit my socials on the left. GitHub is a code reposito
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
-<br />
 <br />
 
 ## Favorite Frameworks
@@ -52,13 +48,11 @@ For more on that, please visit my socials on the left. GitHub is a code reposito
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <br />
-<br />
 
 ### Cross Platform Desktop Development
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
-<br />
 <br />
 
 ### Cross Platform Mobile Development
@@ -68,14 +62,12 @@ For more on that, please visit my socials on the left. GitHub is a code reposito
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 <br />
-<br />
 
 ### Backend Development
 
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-<br />
 <br />
 
 ### Frontend Development
@@ -84,6 +76,11 @@ For more on that, please visit my socials on the left. GitHub is a code reposito
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 <br />
+
+## Cybersecurity
+
+![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+
 <br />
 
 ## Favorite Services
@@ -93,15 +90,17 @@ For more on that, please visit my socials on the left. GitHub is a code reposito
 ![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white)
 
 <br />
-<br />
 
 ### IoT & CI/CD
 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
-<br />
 <br />
 
 ### Compilation Toolchain
@@ -110,9 +109,8 @@ For more on that, please visit my socials on the left. GitHub is a code reposito
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <br />
-<br />
 
 ### Testing
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
