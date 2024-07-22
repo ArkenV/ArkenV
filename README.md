@@ -7,19 +7,15 @@ For more on that, please visit my socials on the left. GitHub is a code reposito
 ## GitHub Activity
 
 <a href="">
-  <img align="center" src="https://vercel-arkenvs-projects.vercel.app/api?username=ArkenV&count_private=true&theme=github_dark&hide=contribs&show_icons=true" />
+  <img align="center" src="https://vercel-arkenvs-projects.vercel.app/api?username=ArkenV&count_private=true&theme=ayu-mirage&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" />
 </a>
 <a href="">
-  <img align="center" src="https://vercel-arkenvs-projects.vercel.app/api/top-langs/?username=ArkenV&count_private=true&theme=github_dark&layout=compact" />
+  <img align="center" src="https://vercel-arkenvs-projects.vercel.app/api/top-langs/?username=ArkenV&count_private=true&theme=ayu-mirage&layout=donut&langs_count=20" />
 </a>
-
-<br />
 
 ## Favorite OS
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-
-<br />
 
 ## Favorite Languages
 
@@ -29,16 +25,12 @@ For more on that, please visit my socials on the left. GitHub is a code reposito
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<br />
-
 ## Favorite Editors
 
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-
-<br />
 
 ## Favorite Frameworks
 
@@ -47,13 +39,9 @@ For more on that, please visit my socials on the left. GitHub is a code reposito
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<br />
-
 ### Cross Platform Desktop Development
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-
-<br />
 
 ### Cross Platform Mobile Development
 
@@ -61,35 +49,25 @@ For more on that, please visit my socials on the left. GitHub is a code reposito
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
-<br />
-
 ### Backend Development
 
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-<br />
 
 ### Frontend Development
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<br />
-
 ## Cybersecurity
 
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-
-<br />
 
 ## Favorite Services
 
 ### Databases
 
 ![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white)
-
-<br />
 
 ### IoT & CI/CD
 
@@ -101,14 +79,10 @@ For more on that, please visit my socials on the left. GitHub is a code reposito
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
-<br />
-
 ### Compilation Toolchain
 
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-<br />
 
 ### Testing
 
