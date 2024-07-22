@@ -10,7 +10,7 @@ For more on that, please visit my socials on the left. GitHub is a code reposito
   <img align="center" src="https://vercel-arkenvs-projects.vercel.app/api?username=ArkenV&count_private=true&theme=ayu-mirage&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" />
 </a>
 <a href="">
-  <img align="center" src="https://vercel-arkenvs-projects.vercel.app/api/top-langs/?username=ArkenV&count_private=true&theme=ayu-mirage&layout=donut&langs_count=20" />
+  <img align="center" src="https://vercel-arkenvs-projects.vercel.app/api/top-langs/?username=ArkenV&count_private=true&theme=ayu-mirage&layout=compact&langs_count=20&hide=java,html,clojure,tcl,css,javascript" />
 </a>
 
 ## Favorite OS
